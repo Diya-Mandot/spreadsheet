@@ -1,0 +1,14 @@
+---
+:id: 287217296
+:submitters:
+- :name: DIYA MANDOT
+  :email: u1454751@utah.edu
+- :name: DEVIN GUPTA
+  :email: u1475642@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-09 02:50:01.968292000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-08 18:50:01.968292000 Z
+:status: processed
+:score: 100.0
