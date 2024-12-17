@@ -18,10 +18,7 @@ The following features are implemented:
 
 ## 🛠️ Technologies Used  
 - **Language**: C#  
-- **Tools**: Visual Studio  
-- **File Structure**:  
-   - Solution file: `Chatting.sln`  
-   - Metadata: `metadata.yml`
+- **Tools**: Rider  
 
 ---
 
