@@ -1,9 +1,7 @@
 # Spreadsheet Project
 
 ## 📋 Project Overview  
-This project, titled **Spreadsheet**, is a college assignment created by:
-- **Diya Mandot** (u1454751@utah.edu)  
-- **Devin Gupta** (u1475642@utah.edu)  
+This project, titled **Spreadsheet** is a college assignment 
 
 It demonstrates skills in coding, organization, and version control using **GitHub**. The project was completed as part of coursework requirements and achieved a **perfect score of 100/100**.
 
